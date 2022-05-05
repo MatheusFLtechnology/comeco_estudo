@@ -1,0 +1,42 @@
+ p 
+ {
+     font-family: Arial, Helvetica, sans-serif;
+     
+ }
+ 
+ h1
+ {
+     text-align: center;
+     color: white;
+ }
+ h3
+ {
+     text-align:center;
+     color: white;
+ }
+body 
+{
+    background-image: url(tecnologia.jpg);
+    background-repeat: repe
+    
+}
+p 
+{
+    text-indent: 50px;
+}
+p
+{
+    text-align: justify;
+    color: whitesmoke;
+}
+a:link{color:red}
+a:visited{color:wheat}
+a:hover{ font-style: oblique;}
+.paragrafo
+{
+    color: white;
+}
+label
+{
+    color: wheat;
+}
